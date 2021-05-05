@@ -1,0 +1,39 @@
+.cottrai{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 13px;
+    width: 500px;
+}
+img{
+    width: 100%;
+}
+a.anhvatd{
+    text-decoration: none;
+    color: gray;
+    font-size: 20px;
+}
+a.anhvatd h3{
+    margin: 0;
+    padding: 0;
+}
+a.anhvatd:hover{
+    color: rgb(111, 174, 216);
+}
+a.nguon{
+    text-decoration: none;
+    color: black;
+    padding-right: 10px;
+}
+a.lq{
+    text-decoration: none;
+    color: black;
+
+}
+a.nguon:hover{
+    color: rgb(111, 174, 216);
+}
+a.lq:hover{
+    color: rgb(111, 174, 216);
+}
+span.gio{
+    padding-right: 10px;
+}
